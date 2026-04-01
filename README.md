@@ -156,9 +156,9 @@ Project developed by students of **UAI — TICS420** as part of the Software Eng
 
 | Name | GitHub |
 |---|---|
-| <!-- Student 1 Vicente Concha --> | <!-- @Vice-CG --> |
-| <!-- Student 2 Martin Gonzalez --> | <!-- @Coaffy --> |
-| <!-- Student 3 Benjamin Henriquez --> | <!-- @BenHenriquez --> |
-| <!-- Student 4 Vicente Pulgar --> | <!-- @Vicenlol09 --> |
+| Vicente Concha | [@Vice-CG](https://github.com/Vice-CG) |
+| Martin Gonzalez | [@Coaffy](https://github.com/Coaffy) |
+| Benjamin Henriquez | [@BenHenriquez](https://github.com/BenHenriquez) |
+| Vicente Pulgar | [@Vicenlol09](https://github.com/Vicenlol09) |
 
 Repository: [https://github.com/uai-cl-tics420/S1C-P15-BMVV](https://github.com/uai-cl-tics420/S1C-P15-BMVV)
